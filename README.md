@@ -45,6 +45,6 @@
    <br>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/tomas-sostersich/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:tomassostersich@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://mail.google.com/mail/u/0/?hl=es-419#inbox?compose=GTvVlcSDZcnmjTxvQzjWZLdMnZdqNPDslHkBKRZhMnlSrkCSXWxgBdBlJkwfNGVNcQbnjPshzJWQg"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <br>
 </p>
