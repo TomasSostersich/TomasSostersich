@@ -1,3 +1,18 @@
+
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+<h1>Hi, I'm Tomas Sostersich!</h1>             
+
+
+<p align="left">I am a student developer and self-taught learning enthusiast. </p>
+
+- 🌱 I'm currently learning React and C++
+- 💁‍♂️ I'm looking forward to collaborate on open source project.
+- ✍ Ask me obuit anything.I am happy to help you.
+- 💻 Visit my [Portfolio](https:) for more details about me.
+<!--End Intro-->
+
 ## My Skills Include
 
 <h4> Languages </h4>
