@@ -8,7 +8,7 @@
 
 <p align="left">I am a student developer and self-taught learning enthusiast. </p>
 
-- 🌱 I'm currently learning React and C++
+- 🌱 I'm currently learning Cybersecurity fundamentals and React
 - 💁‍♂️ I'm looking forward to collaborate on open source project.
 - ✍ Ask me obuit anything.I am happy to help you.
 - 💻 Visit my [Portfolio](https:) for more details about me.
