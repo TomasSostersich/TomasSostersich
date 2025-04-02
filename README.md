@@ -6,10 +6,10 @@
 <h1>Hi, I'm Tomas Sostersich!</h1>             
 
 
-<p align="left">I am a student developer and self-taught learning enthusiast. </p>
+<p align="left">I'm a student developer and self-taught learning enthusiast. </p>
 
-- 🌱 I am currently learning Astro with Tailwind.css
-- 💁‍♂️ I am looking forward to collaborate on open source project.
+- 🌱 I'm currently learning Astro with Tailwind.css
+- 💁‍♂️ I'm looking forward to collaborate on open source project.
 - ✍ Ask me about anything. I would be happy to help you.
 - 💻 Visit my [Portfolio](https:) for more details about me.
 <!--End Intro-->
